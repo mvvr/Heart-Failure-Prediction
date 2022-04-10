@@ -1,6 +1,6 @@
 # Heart Failure Prediction
 A Machine learning web app made with **Streamlit**
-- https://share.streamlit.io/randell-janus/heart-failure-prediction/main/app.py  
+- https://share.streamlit.io/mvvr/heart-failure-prediction/main/app.py  
 - Deployed via [Streamlit Sharing](https://streamlit.io/sharing)
 
 ## About
