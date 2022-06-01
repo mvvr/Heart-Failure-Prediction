@@ -1,6 +1,6 @@
 # Heart Failure Prediction
 A Machine learning web app made with **Streamlit**
-- https://share.streamlit.io/mvvr/innovaccer/main/app.py 
+- https://share.streamlit.io/mvvr/Heart-Failure-Prediction/main/app.py 
 - Deployed via [Streamlit Sharing](https://streamlit.io/sharing)
 
 ## About
